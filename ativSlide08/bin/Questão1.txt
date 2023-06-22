@@ -1,0 +1,13 @@
+1 Surgeon haves only one variable
+
+2 FamilyDoctor haves two variables
+
+3 Doctor haves onle one method
+
+4 Surgeon haves two methods
+
+5 FamilyDoctor haves two methods
+
+6 Yes, he can
+
+7 No, he can't

@@ -1,0 +1,7 @@
+honeyPot = 7
+bees = 2
+bears = 6
+raccoon = 3
+
+Its honeyPot.
+

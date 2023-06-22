@@ -1,0 +1,19 @@
+What's the declaration?
+
+1 public class Click {}
+  public class CLack extends Click {}
+
+2 abstract class Top {}
+  class Tip extends Top {}
+
+3 abstract class Fee {}
+  abstract class Fi extends Fee {}
+
+4 public class Foo {}
+  class Bar implements Foo {}
+  class Baz extends Bar {}
+
+5 public class Zeta {}
+  class Alpha implements Zeta {}
+  public class Beta {} 
+  public class Deltar implements Beta extends Alpha {}  
