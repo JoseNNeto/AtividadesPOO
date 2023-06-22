@@ -26,6 +26,7 @@ public class PoolPuzzleOne {
             }
             System.out.println();
             x = x + 2;
+            
             //X == 3
         }
     }
